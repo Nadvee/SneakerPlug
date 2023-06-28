@@ -109,8 +109,9 @@ color: #0cc3ed;
 
 input:focus{
 
-
+color: #12ace4;
 font-size: 18px;
 
-
+font-weight: bold;
+font-family: 'Belanosima', sans-serif;
 }
