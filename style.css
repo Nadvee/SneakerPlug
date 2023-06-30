@@ -22,7 +22,11 @@ display: inline-block;
 
 position: absolute;
 
-margin: 65px ;
+margin-top: 65px ;
+margin-left: 65px;
+margin-right: 65px;
+margin-bottom: 0px;
+
 
 padding-left: 300px;
 
@@ -36,7 +40,11 @@ padding-left: 300px;
 display: inline-block;
 color: white;
 right: 100px;
-margin: 71px;
+margin-top: 71px;
+margin-left: 71px;
+margin-right: 71px;
+margin-bottom: 0px;
+
 font-family: 'Belanosima', sans-serif;
 }
 
@@ -45,7 +53,7 @@ font-family: 'Belanosima', sans-serif;
 height: 30px;
 width: 450px;
 border: 2px solid #0cc3ed;
-border-radius: 10px;
+border-radius: 20px;
 
 }
 
@@ -59,19 +67,19 @@ display: inline-block;
 #n{
 
     display: inline-block;
-font-size: 120px;
+font-size: 115px;
 padding-left: 117px;
 
-padding-top: 40px;
-padding-bottom: 25px;
+padding-top: 25px;
+padding-bottom: 27px;
 
 }
 #o{
 
     display: inline-block;
 font-size: 100px;
-padding-left: 132px;
-padding-bottom: 25px;
+padding-left: 150px;
+padding-bottom: 27px;
 
 
 }
@@ -79,7 +87,7 @@ padding-bottom: 25px;
 
     display: inline-block;
 font-size: 60px;
-padding-left: 222px;
+padding-left: 230px;
 
 
 }
@@ -99,8 +107,9 @@ padding-top: 0px;
 #sh{
 
     display: inline-block;
-height: 572px;
+height: 577px;
 width: 730px;
+
 
 }
 
@@ -126,7 +135,7 @@ font-family: 'Belanosima', sans-serif;
     color: white;
     font-family: 'Belanosima', sans-serif;
     
-padding-top: 50px;
+padding-top: 30px;
 right: 125px;
     
 }
@@ -154,3 +163,111 @@ right: 125px;
     padding-bottom: 10px;
     
 }
+
+#j{
+
+    display: inline-block;
+color: white;
+background-color: #0cc3ed;
+border-radius: 10px;
+font-family: 'Belanosima', sans-serif;
+padding-top: 6px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 6px;
+
+font-size: 17px;
+font-weight: bold;
+
+right: 50px;
+
+
+
+}
+
+.sk{
+
+    display: inline-block;
+    position: absolute;
+    height: 145px;
+    width: 220px;
+    padding-right: 110px;
+    padding-bottom: 25px;
+
+    padding-top: 35px;
+    background-color: #0cc3ed;
+    border-radius: 20px ;
+   padding-left: 20px;
+    
+}
+
+.jam{
+
+
+position: absolute;
+    color: white;
+    padding-left: 195px;
+
+   padding-top: 10px;
+
+   font-family: 'Belanosima', sans-serif;
+   font-size: 27px;
+  
+
+}
+
+.jam:hover{
+
+    color: blue;
+}
+
+
+.ss{
+margin-top: 0px;
+padding-top: 0px;
+    padding-bottom: 160px;
+}
+
+.more{
+
+
+display: inline-block;
+
+float: left;
+
+padding-left: 125px;
+
+}
+
+.amore{
+
+
+    display: inline-block;
+    
+    float: left;
+    
+    padding-left: 569px;
+    
+    }
+
+    .bmore{
+
+
+        display: inline-block;
+        
+        float: left;
+        
+        padding-left: 1445px;
+        
+        }
+
+        .cmore{
+
+
+            display: inline-block;
+            
+            float: left;
+            
+            padding-left: 1009px;
+            
+            }
